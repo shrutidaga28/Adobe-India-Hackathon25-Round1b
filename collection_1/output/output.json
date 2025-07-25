@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "input_documents": [
+      "IC-Basic-Marketing-Report-Template-Example_PDF.pdf"
+    ],
+    "persona": "A marketing strategist at an electric vehicle (EV) company who focuses on brand building, ROI measurement, and data-driven decision-making. They\u2019re interested in tracking campaign success, improving customer outreach, and aligning financial expenditure with impact.",
+    "job": "Looking for actionable insights on improving marketing ROI and expanding brand reach through digital campaigns, influencer collaborations, and green energy partnerships. Wants to identify which marketing activities contributed most to customer engagement and revenue.",
+    "timestamp": "2025-07-25 20:17:16"
+  },
+  "extracted_sections": [
+    {
+      "document": "IC-Basic-Marketing-Report-Template-Example_PDF.pdf",
+      "page_number": 4,
+      "section_title": "Page 4 ",
+      "importance_rank": 1
+    },
+    {
+      "document": "IC-Basic-Marketing-Report-Template-Example_PDF.pdf",
+      "page_number": 3,
+      "section_title": "Page 3 ",
+      "importance_rank": 2
+    },
+    {
+      "document": "IC-Basic-Marketing-Report-Template-Example_PDF.pdf",
+      "page_number": 2,
+      "section_title": "Page 2 ",
+      "importance_rank": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "IC-Basic-Marketing-Report-Template-Example_PDF.pdf",
+      "refined_text": "Page 4 \n3. MARKETING AND FINANCIAL OVERVIEW \nAnnual Marketing Financial Overview (Year): Positive Charge EV-Charging Solutions \nTotal Marketing Budget for [Year]: $500,000 \nExpenditure Breakdown: \n1. Digital Advertising: $150,000 \n- Main Platforms Used: Google Ads, Facebook, Instagram, LinkedIn. \n- Key Highlights: Achieved 2M impressions, generated 30,000 site visits with a conversion rate of 3%. \n2. Event Sponsorships & Partnerships: $75,000 \n- Events Sponsored: 5 major green energy expos, 3 au",
+      "page_number": 4
+    },
+    {
+      "document": "IC-Basic-Marketing-Report-Template-Example_PDF.pdf",
+      "refined_text": "Page 3 \n1. EXECUTIVE SUMMARY \nAnnual Marketing Report for Positive Charge \n \nIn the past year, Positive Charge has established itself as a leading force in the electric vehicle (EV) \ncharging industry, underlined by our state-of-the-art EV-charging supplies and impeccable logistics \nservices. Our marketing efforts have been primarily channeled towards raising awareness about the eco-\nfriendly benefits of EVs and positioning our brand as a trusted solution for efficient and reliable charging \nnee",
+      "page_number": 3
+    },
+    {
+      "document": "IC-Basic-Marketing-Report-Template-Example_PDF.pdf",
+      "refined_text": "Page 2 \n \nTABLE OF CONTENTS \n1. \nEXECUTIVE SUMMARY .............................................................................................................................................. 3 \n2. \nTOTAL PROJECTS DELIVERED AND KEY PERFORMANCE INDICATORS (KPI) ....................................................... 3 \n3. \nMARKETING AND FINANCIAL OVERVIEW .............................................................................................................. 4 \n4. \nCONCLUSION ............",
+      "page_number": 2
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "input_documents": [
+      "sample_3.pdf"
+    ],
+    "persona": "A digital marketing strategist at a mid-sized FMCG company aiming to improve brand awareness and customer engagement. Experienced in data-driven campaigns, social media marketing, and SEO. Keeps up with trends in content strategy and AI-based personalization.",
+    "job_to_be_done": "Looking for insights on effective digital marketing strategies, performance metrics, and future technologies like AI, AR/VR for branding. Interested in challenges and best practices in social media, email, and content marketing to increase brand visibility and consumer trust.",
+    "processing_timestamp": "2025-07-25T20:41:08.929755"
+  },
+  "extracted_sections": [
+    {
+      "document": "sample_3.pdf",
+      "page_number": 2,
+      "section_title": "IJFANS INTERNATIONAL JOURNAL OF FOOD AND...",
+      "importance_rank": 1
+    },
+    {
+      "document": "sample_3.pdf",
+      "page_number": 3,
+      "section_title": "IJFANS INTERNATIONAL JOURNAL OF FOOD AND...",
+      "importance_rank": 2
+    },
+    {
+      "document": "sample_3.pdf",
+      "page_number": 4,
+      "section_title": "IJFANS INTERNATIONAL JOURNAL OF FOOD AND...",
+      "importance_rank": 3
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "sample_3.pdf",
+      "refined_text": "IJFANS INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONAL SCIENCES \nISSN PRINT 2319 1775 Online 2320 7876 \nResearch paper \n\u00a9 2012 IJFANS. All Rights Reserved, UGC CARE Listed ( Group -I) Journal Volume 11, Iss 7, 2022 \n \n \n \n \n \n \n \n                                                                                                                                                                                                                                            4297 \n \nhas reshaped customer behavi...",
+      "page_number": 2
+    },
+    {
+      "document": "sample_3.pdf",
+      "refined_text": "IJFANS INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONAL SCIENCES \nISSN PRINT 2319 1775 Online 2320 7876 \nResearch paper \n\u00a9 2012 IJFANS. All Rights Reserved, UGC CARE Listed ( Group -I) Journal Volume 11, Iss 7, 2022 \n \n \n \n \n \n \n \n                                                                                                                                                                                                                                            4298 \n \nInstagram, and Twitter to fa...",
+      "page_number": 3
+    },
+    {
+      "document": "sample_3.pdf",
+      "refined_text": "IJFANS INTERNATIONAL JOURNAL OF FOOD AND NUTRITIONAL SCIENCES \nISSN PRINT 2319 1775 Online 2320 7876 \nResearch paper \n\u00a9 2012 IJFANS. All Rights Reserved, UGC CARE Listed ( Group -I) Journal Volume 11, Iss 7, 2022 \n \n \n \n \n \n \n \n                                                                                                                                                                                                                                            4299 \n \noverload for consumers. Cutt...",
+      "page_number": 4
+    }
+  ]
+}

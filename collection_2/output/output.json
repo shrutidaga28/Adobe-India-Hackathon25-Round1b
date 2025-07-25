@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "input_documents": [
+      "sample_marketing_doc.pdf"
+    ],
+    "persona": "A marketing manager at a fast-growing startup who is focused on improving product visibility and brand engagement using digital platforms like Instagram, LinkedIn, and YouTube. Interested in strategic brand positioning, social media tools, and data-driven marketing campaigns.",
+    "job_to_be_done": "Looking for effective tools and strategies to enhance brand visibility and customer engagement through social media campaigns, automation tools, and storytelling-driven digital marketing approaches.",
+    "processing_timestamp": "2025-07-25T20:23:36.963938"
+  },
+  "extracted_sections": [
+    {
+      "document": "sample_marketing_doc.pdf",
+      "page_number": 1,
+      "section_title": "Introduction to Brand Strategy This sect...",
+      "importance_rank": 1
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "sample_marketing_doc.pdf",
+      "refined_text": "Introduction to Brand Strategy\nThis section explains how companies build brand strategy through customer targeting, visual\nidentity, and messaging. \nStartups often benefit from strong brand positioning in the early stages.\nDigital platforms such as Instagram, LinkedIn, and YouTube play a vital role in growing brand\nvisibility for new businesses.\nSocial Media Campaign Tools\nSocial media campaigns can improve engagement rates by 35% when done correctly. Using\nautomation tools like Hootsuite and Bu...",
+      "page_number": 1
+    }
+  ]
+}
