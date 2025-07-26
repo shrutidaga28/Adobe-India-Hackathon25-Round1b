@@ -53,13 +53,13 @@ collection_4/output/results.json
 But this is not in final format.
 
 # Step 3: Convert to Final Output Format
-To convert results.json to the required format (formatted_output.json), run:
+To convert results.json to the required format (output.json), run:
 ```bash
 python convert_output_format.py collection_4
 ```
 This will generate:
 ```bash
-collection_4/output/formatted_output.json
+collection_4/output/output.json
 ```
 This formatted output follows the Adobe Hackathon expected structure with:
 
@@ -80,7 +80,7 @@ collection_1/
 
 output/results.json → raw output
 
-output/formatted_output.json → final output
+output/output.json → final output
 
 # Output Format Example
 ```bash
