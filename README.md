@@ -27,13 +27,13 @@ Here’s how you process a new collection folder (e.g., collection_4):
 # Step 1: Place Input Files
 Inside collection_4:
 
-🧾 input/ → Add one or more PDF files
+1. input/ → Add one or more PDF files
 
-🧍 persona.txt → Add persona description
+2. persona.txt → Add persona description
 
-🎯 job.txt → Add job-to-be-done description
+3. job.txt → Add job-to-be-done description
 
-📤 output/ → Create empty folder (Docker will write here)
+4. output/ → Create empty folder (Docker will write here)
 
 # Step 2: Run Docker Command
 Run this in your terminal (PowerShell or Git Bash):
@@ -67,22 +67,22 @@ metadata
 extracted_sections
 sub-section_analysis
 
-🧪 Example Collection
-🧾 collection_1/
+# Example Collection
+collection_1/
 
-input/: marketing_report.pdf
+1. input/: marketing_report.pdf
 
-persona.txt: "A marketing manager focused on digital campaigns..."
+2. persona.txt: "A marketing manager focused on digital campaigns..."
 
-job.txt: "Looking for ways to increase customer engagement..."
+3. job.txt: "Looking for ways to increase customer engagement..."
 
-Output:
+# Output:
 
 output/results.json → raw output
 
 output/formatted_output.json → final output
 
-✅ Output Format Example
+# Output Format Example
 ```bash
 {
   "metadata": {
@@ -109,9 +109,9 @@ output/formatted_output.json → final output
 }
 ```
 
-Notes
+# Notes
 
-Output must be generated using CPU only (no GPU)
-Model size used is under 1GB
-Processing time per collection ≤ 60 seconds
-No internet access is used inside Docker
+1. Output must be generated using CPU only (no GPU)
+2. Model size used is under 1GB
+3. Processing time per collection ≤ 60 seconds
+5. No internet access is used inside Docker
